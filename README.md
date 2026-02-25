@@ -10,9 +10,3 @@ Comments in code show flow of execution with descriptions for important lines/bl
 
 # Expected Input:
 CSV files (*.csv)
-
-Format:
-ProcessID, Arrival Time, Burst Time
-1, 0, 10
-2, 2, 3
-3, 8, 8
