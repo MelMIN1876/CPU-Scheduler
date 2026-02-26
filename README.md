@@ -37,9 +37,10 @@ ProcessID,Arrival Time,Burst Time\
 | Burst Time | Total CPU execution time required |
 
 # How to Run
-`python3 schedular.py <inputFile>.csv <timeQuantum>`
+`python3 schedular.py <inputFile>.csv <timeQuantum>` 
+
 Example: 
-`python3 schedular.py processes.csv 2`
+`python3 schedular.py processes.csv 2` 
 * Processes.csv -> Input file
 * 2 -> Time Quantum (used only for Round Robin)
 
